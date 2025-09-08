@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 // Components
 import Navbar from "./component/Navbar";
 import Hero from "./component/Hero";
-import Infobanner from "./component/Infobanner";
+import Infobanner from "./component/InfoBanner";
 import Steps from "./component/Steps";
 import Footer from "./component/Footer";
 import Results from "./component/Resultss";
