@@ -1,9 +1,9 @@
 import React from "react";
 import { motion } from "framer-motion";
 import Banner from "../assets/banner.png";
-import Rectangle2 from "../assets/Rectangle 2.png";
-import Rectangle3 from "../assets/Rectangle 3.png";
-import Rectangle4 from "../assets/Rectangle 4.png";
+import Rectangle2 from "../assets/Rectangle2.png";
+import Rectangle3 from "../assets/Rectangle3.png";
+import Rectangle4 from "../assets/Rectangle4.png";
 
 const InfoBanner = () => {
   // Animation variants
