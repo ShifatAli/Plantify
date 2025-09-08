@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 import introVideo from "../assets/intropagevideo.mp4";
 
 // import your Identification component
-import Identification from "./Identification"; // ✅ adjust the path if needed
+import Identification from "../component/identification";
 
 // Animations
 const fadeInUp = {
